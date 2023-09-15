@@ -1,0 +1,2 @@
+# CGITrainingTasks
+Training problems
